@@ -1,0 +1,2 @@
+def Riddle():
+    return ('Q. You find me in December, but not in any other month. What am I? A. The letter D!')
